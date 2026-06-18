@@ -8,3 +8,6 @@ Hi! I'm learning how to use GitHub. This is my very first repository!
 * Learn how to code 🚀
 * Build a cool website 💻
 * Have fun! ✨
+
+
+This line was added from my actual computer! 💻
